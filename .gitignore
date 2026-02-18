@@ -13,3 +13,4 @@ build/
 .DS_Store
 *.vscode/
 *.iml
+/templates_completed
